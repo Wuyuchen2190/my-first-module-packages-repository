@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: WYC-s-frist-package
+Version: 0.0.1
+Summary: 用来学习发布包的包
+Home-page: UNKNOWN
+Author: 吴宇晨
+Author-email: 2296136694@qq.com
+License: UNKNOWN
+Description: #This is my first package
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
